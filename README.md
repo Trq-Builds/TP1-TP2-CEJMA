@@ -32,3 +32,23 @@ L'ensemble des travaux repose sur l'analyse des documents suivants fournis :
     *   [2. Quels sont les motifs reprochés ?](#d8q2)
 
 ---
+
+## `📘`・TP-1・Le compteur Linky ne viole pas le RGPD
+
+* **Source :** `TP1 - CEJMA`.`pdf`
+* **Contexte :** Audit du système d'archivage de l'entreprise Cibeco.
+* **Statut global :** `🔴` **Non-conforme** (Risque Critique).
+
+<a name="d7q1"></a>
+### 1.1. Analyse de la confidentialité (Q1)
+
+---
+
+## `📘`・TP-2 ・ RGPD : Vinted sous le coup d'une enquête des Cnil européennes
+
+* **Source :** `TP2 - CEJMA`.`pdf`
+* **Contexte :**
+* **Statut global :** `🔴` **Non-conforme** (Risque Critique).
+
+<a name="d7q1"></a>
+### 1.1. Analyse de la confidentialité (Q1)
