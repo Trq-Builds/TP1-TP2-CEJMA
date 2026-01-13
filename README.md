@@ -7,7 +7,7 @@ Les analyses et corrections ont été enrichies par des compléments juridiques 
 
 ---
 
-## `🗃️ ・ 🌐` **︲Documents/Liens d’annexes fournis : 
+### `🗃️ ・ 🌐` ︲Documents/Liens d’annexes fournis : 
 
 L'ensemble des travaux repose sur l'analyse des documents suivants fournis :
 
