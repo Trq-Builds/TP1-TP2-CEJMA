@@ -12,7 +12,9 @@ Les analyses et corrections ont été enrichies par des compléments juridiques 
 L'ensemble des travaux repose sur l'analyse des documents suivants fournis :
 
 *   `📂`・`TP1 - CEJMA`.`pdf`
+
 *   `📁`・`TP2 - CEJMA`.`pdf`
+
 *   `🌐` ・`legalis.net`︲[`🌐`](https://www.legalis.net/jurisprudences/tgi-de-bordeaux-ordonnance-de-refere-du-23-avril-2019/)
   
   
