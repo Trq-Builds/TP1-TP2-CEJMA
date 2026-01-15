@@ -8,7 +8,7 @@ Les réponses s’appuient sur les textes législatifs en vigueur (RGPD, Code de
 
 ---
 
-## `📂`・Documents fournis
+## `🗃️ ︲ 🌐`・**Documents/Liens d’annexes fournis :
 
 - `📂`・`TP1 – CEJMA`.`pdf`
 - `📂`・`TP2 – CEJMA`.`pdf`
@@ -44,7 +44,7 @@ Selon elles, ces données permettent indirectement d’identifier les occupants 
 L’analyse fine des courbes de consommation peut révéler des informations relatives au mode de vie.  
 Même sans mention explicite du nom des occupants, ces données peuvent permettre une **identification indirecte**, ce qui correspond à la définition des données personnelles au sens du RGPD.
 
-**Références juridiques :**
+ `⚖️`・ **Références juridiques :**
 - RGPD ・ Article 4 §1 (définition des données à caractère personnel)  
 - RGPD ・ Considérant 26 (identification directe ou indirecte)  
 - TGI de Bordeaux ・ Ordonnance de référé du 23 avril 2019
@@ -89,7 +89,7 @@ Cette exigence soulève des interrogations quant à la **base légale du traitem
 Par ailleurs, les **durées de conservation** de ces données sont questionnées au regard du principe de limitation de la conservation.  
 Les modalités de blocage des comptes utilisateurs sont également critiquées en raison d’un manque de transparence et d’information préalable.
 
-**Références juridiques :**
+ `⚖️`・ **Références juridiques :**
 - RGPD ・ Article 5 §1 c) (minimisation des données)  
 - RGPD ・ Article 5 §1 e) (limitation de la conservation)  
 - RGPD ・ Article 6 (licéité du traitement)  
@@ -110,7 +110,7 @@ Par ailleurs, les procédures de **blocage des comptes** manquent de clarté et 
 
 Enfin, l’association **UFC-Que Choisir** reproche à Vinted des **pratiques commerciales trompeuses**, notamment concernant une commission présentée comme optionnelle mais affichée tardivement, relevant du droit de la consommation.
 
-**Références juridiques :**
+ `⚖️`・ **Références juridiques :**
 - Comité Européen de la Protection des Données (CEPD)  
 - RGPD ・ Articles 56 et suivants (mécanisme de guichet unique)  
 - Code de la consommation ・ Article L121-1  
