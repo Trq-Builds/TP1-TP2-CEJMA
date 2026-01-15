@@ -16,7 +16,7 @@ Les réponses s’appuient sur les textes législatifs en vigueur (RGPD, Code de
 
 ---
 
-## `📌`・Sommaire
+## `📌`・Sommaire (Cliquez pour être redirigé.)
 
 - [TP1 ・ Le compteur Linky ne viole pas le RGPD](#tp1--le-compteur-linky-ne-viole-pas-le-rgpd)
   - [Q1 ・ Données personnelles et compteur Linky](#q1--données-personnelles-et-compteur-linky)
