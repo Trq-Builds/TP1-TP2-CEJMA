@@ -1,4 +1,4 @@
-# `💼`・CEJMA — TP1 & TP2  
+# `💼`・CEJMA ・ TP1 & TP2  
 Protection des données • RGPD • Obligations légales
 
 Ce dépôt contient les **TP1 et TP2 de CEJMA**, traités et rédigés sous forme de **documentation structurée**.  
