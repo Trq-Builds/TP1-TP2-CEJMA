@@ -28,6 +28,7 @@ Les réponses s’appuient sur les textes législatifs en vigueur (RGPD, Code de
 
 ---
 
+<a name="tp1--le-compteur-linky-ne-viole-pas-le-rgpd"></a>
 ## `📙`・TP1 ・ Le compteur Linky ne viole pas le RGPD
 
 `📂`・ **Source :** `TP1 – CEJMA`.`pdf`  
@@ -36,6 +37,7 @@ Les réponses s’appuient sur les textes législatifs en vigueur (RGPD, Code de
 
 ---
 
+<a name="q1--données-personnelles-et-compteur-linky"></a>
 ### `🔸`・ Q1 ・ Données personnelles et compteur Linky :
 
 Les personnes assignant la société **Enedis** considèrent que les données de consommation électrique collectées par les compteurs Linky constituent des **données à caractère personnel**.  
@@ -53,6 +55,7 @@ Même sans mention explicite du nom des occupants, ces données peuvent permettr
 
 ---
 
+<a name="q2--analyse-de-lordonnance-du-23-avril-2019"></a>
 ### `🔸`・ Q2 ・ Analyse de l’ordonnance du 23 avril 2019 :
 
 Le tribunal a statué en faveur de la société **Enedis** pour plusieurs raisons juridiques.
@@ -75,6 +78,7 @@ Une mesure spécifique a toutefois été ordonnée pour les personnes se déclar
 
 ---
 
+<a name="tp2--rgpd--vinted-sous-enquête-des-cnil-européennes"></a>
 ## `📙`・ TP2 ・ RGPD : Vinted sous enquête des CNIL européennes
 
 `📂`・ **Source :** `TP2 – CEJMA`.`pdf`  
@@ -83,6 +87,7 @@ Une mesure spécifique a toutefois été ordonnée pour les personnes se déclar
 
 ---
 
+<a name="q1--non-respect-du-rgpd-par-vinted"></a>
 ### `🔸`・ Q1 ・ Non-respect du RGPD par Vinted :
 
 La société **Vinted** est mise en cause pour plusieurs manquements au RGPD liés au traitement des données personnelles de ses utilisateurs.
@@ -104,6 +109,7 @@ Les modalités de blocage des comptes utilisateurs sont également critiquées e
 
 ---
 
+<a name="q2--motifs-reprochés-à-lentreprise"></a>
 ### `🔸`・ Q2 ・ Motifs reprochés à l’entreprise :
 
 Plusieurs motifs sont reprochés à la société **Vinted**.
