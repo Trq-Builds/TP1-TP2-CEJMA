@@ -8,7 +8,7 @@ Les réponses s’appuient sur les textes législatifs en vigueur (RGPD, Code de
 
 ---
 
-## `🗃️ ︲ 🌐`・**Documents/Liens d’annexes fournis :
+## `🗃️ ︲ 🌐`・**Documents/Liens d’annexes fournis :**
 
 - `📂`・`TP1 – CEJMA`.`pdf`
 - `📂`・`TP2 – CEJMA`.`pdf`
