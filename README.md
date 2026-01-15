@@ -45,9 +45,9 @@ L’analyse fine des courbes de consommation peut révéler des informations rel
 Même sans mention explicite du nom des occupants, ces données peuvent permettre une **identification indirecte**, ce qui correspond à la définition des données personnelles au sens du RGPD.
 
  `⚖️`・ **Références juridiques :**
-- RGPD ・ Article 4 §1 (définition des données à caractère personnel)  
-- RGPD ・ Considérant 26 (identification directe ou indirecte)  
-- TGI de Bordeaux ・ Ordonnance de référé du 23 avril 2019
+- RGPD ・ Article 4 §1 (définition des données à caractère personnel) ・[`🌐`](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre1#Article4) [`🌐`](https://gdpr-text.com/fr/read/article-4/)
+- RGPD ・ Considérant 26 (identification directe ou indirecte) ・[`🌐`](https://eur-lex.europa.eu/eli/reg/2016/679/oj) [`🌐`](https://gdpr-text.com/fr/read/recital-26/)
+- TGI de Bordeaux ・ Ordonnance de référé du 23 avril 2019・[`🌐`](https://www.legifrance.gouv.fr/)
 
 ---
 
