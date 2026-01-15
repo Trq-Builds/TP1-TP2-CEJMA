@@ -65,9 +65,9 @@ Enfin, concernant le **principe de précaution** invoqué en lien avec les champ
 Une mesure spécifique a toutefois été ordonnée pour les personnes se déclarant électro-hypersensibles, avec l’installation de filtres adaptés.
 
 `⚖️`・ **Références juridiques :**
-- RGPD ・ Article 5 (principes relatifs au traitement des données)  
-- Charte de l’environnement ・ Article 5 (principe de précaution)  
-- CNIL ・ Avis sur le dispositif Linky
+- RGPD ・ Article 5 (principes relatifs au traitement des données)・[`🌐`](https://eur-lex.europa.eu/eli/reg/2016/679/oj) [`🌐`](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2#Article5)
+- Charte de l’environnement ・ Article 5 (principe de précaution)・[`🌐`](https://www.legifrance.gouv.fr/contenu/menu/les-textes-fondamentaux/charte-de-lenvironnement)
+- CNIL ・ Avis sur le dispositif Linky・[`🌐`](https://www.cnil.fr/fr/deliberation-n-2012-404-du-15-novembre-2012)
 
 ---
 
@@ -90,11 +90,11 @@ Par ailleurs, les **durées de conservation** de ces données sont questionnées
 Les modalités de blocage des comptes utilisateurs sont également critiquées en raison d’un manque de transparence et d’information préalable.
 
  `⚖️`・ **Références juridiques :**
-- RGPD ・ Article 5 §1 c) (minimisation des données)  
-- RGPD ・ Article 5 §1 e) (limitation de la conservation)  
-- RGPD ・ Article 6 (licéité du traitement)  
-- RGPD ・ Article 9 (données sensibles)  
-- RGPD ・ Article 13 (information des personnes)
+- RGPD ・ Article 5 §1 c) (minimisation des données)・[`🌐`]()
+- RGPD ・ Article 5 §1 e) (limitation de la conservation)・[`🌐`]()
+- RGPD ・ Article 6 (licéité du traitement)・[`🌐`]()
+- RGPD ・ Article 9 (données sensibles)・[`🌐`]()
+- RGPD ・ Article 13 (information des personnes)・[`🌐`]()
 
 ---
 
