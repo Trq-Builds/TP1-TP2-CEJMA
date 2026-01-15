@@ -90,11 +90,11 @@ Par ailleurs, les **durées de conservation** de ces données sont questionnées
 Les modalités de blocage des comptes utilisateurs sont également critiquées en raison d’un manque de transparence et d’information préalable.
 
  `⚖️`・ **Références juridiques :**
-- RGPD ・ Article 5 §1 c) (minimisation des données)・[`🌐`]()
-- RGPD ・ Article 5 §1 e) (limitation de la conservation)・[`🌐`]()
-- RGPD ・ Article 6 (licéité du traitement)・[`🌐`]()
-- RGPD ・ Article 9 (données sensibles)・[`🌐`]()
-- RGPD ・ Article 13 (information des personnes)・[`🌐`]()
+- RGPD ・ Article 5 §1 c) (minimisation des données)・[`🌐`](https://www.privacy-regulation.eu/fr/5.htm) [privacy-regulation](https://www.privacy-regulation.eu/fr/5.htm)
+- RGPD ・ Article 5 §1 e) (limitation de la conservation)・[`🌐`](https://www.privacy-regulation.eu/fr/5.htm) [privacy-regulation](https://www.privacy-regulation.eu/fr/5.htm)
+- RGPD ・ Article 6 (licéité du traitement)・[`🌐`](https://www.privacy-regulation.eu/fr/6.htm) [privacy-regulation](https://www.privacy-regulation.eu/fr/6.htm)
+- RGPD ・ Article 9 (données sensibles)・[`🌐`](https://www.privacy-regulation.eu/fr/9.htm) [privacy-regulation](https://www.privacy-regulation.eu/fr/5.htm)
+- RGPD ・ Article 13 (information des personnes)・[`🌐`](https://www.privacy-regulation.eu/fr/13.htm) [privacy-regulation](https://www.privacy-regulation.eu/fr/5.htm)
 
 ---
 
