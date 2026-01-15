@@ -8,10 +8,9 @@ Les réponses s’appuient sur les textes législatifs en vigueur (RGPD, Code de
 
 ## `📂`・Documents fournis
 
-- `TP1 – CEJMA.pdf`
-- `TP2 – CEJMA.pdf`
-- Jurisprudence ・ TGI de Bordeaux, ordonnance de référé du 23 avril 2019  
-  https://www.legalis.net/jurisprudences/tgi-de-bordeaux-ordonnance-de-refere-du-23-avril-2019/
+- `📂`・`TP1 – CEJMA.``pdf`
+- `📂`・`TP2 – CEJMA.``pdf`
+- Jurisprudence ・ TGI de Bordeaux, ordonnance de référé du 23 avril 2019 https://www.legalis.net/jurisprudences/tgi-de-bordeaux-ordonnance-de-refere-du-23-avril-2019/
 
 ---
 
