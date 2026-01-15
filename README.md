@@ -12,7 +12,7 @@ Les analyses ont été **enrichies par des références législatives et jurispr
 
 - `📄` **TP1 – CEJMA** (`.pdf`)
 - `📄` **TP2 – CEJMA** (`.pdf`)
-- `🌐` **Legalis.net** — Ordonnance de référé du TGI de Bordeaux (23 avril 2019)  
+- `🌐` **Legalis.net** ・ Ordonnance de référé du TGI de Bordeaux (23 avril 2019)  
   👉 https://www.legalis.net/jurisprudences/tgi-de-bordeaux-ordonnance-de-refere-du-23-avril-2019/
 
 ---
@@ -33,7 +33,7 @@ Les analyses ont été **enrichies par des références législatives et jurispr
 
 - **Source :** `TP1 – CEJMA.pdf`  
 - **Contexte :** Analyse juridique des données collectées par les compteurs communicants  
-- **Statut global :** `🔴` **Non conforme** — *Risque juridique perçu par les usagers*
+- **Statut global :** `🔴` **Non conforme** ・ *Risque juridique perçu par les usagers*
 
 ---
 
@@ -47,11 +47,11 @@ En effet, une analyse détaillée des courbes de consommation pourrait révéler
 Même en l’absence de nom ou de prénom, ces données pourraient permettre une **identification indirecte**, ce qui correspond à la définition des données personnelles au sens du RGPD.
 
 **Références juridiques :**
-- Article 4 §1 du RGPD — Définition des données à caractère personnel  
+- Article 4 §1 du RGPD ・ Définition des données à caractère personnel  
   https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre1#Article4
-- Considérant 26 du RGPD — Identification directe ou indirecte  
+- Considérant 26 du RGPD ・ Identification directe ou indirecte  
   https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32016R0679
-- Ordonnance de référé du TGI de Bordeaux — 23 avril 2019  
+- Ordonnance de référé du TGI de Bordeaux ・ 23 avril 2019  
   https://www.legalis.net/jurisprudences/tgi-de-bordeaux-ordonnance-de-refere-du-23-avril-2019/
 
 ---
@@ -70,9 +70,9 @@ Enfin, concernant le **principe de précaution** invoqué en raison des champs �
 Une exception a toutefois été reconnue pour les personnes se déclarant électro-hypersensibles, pour lesquelles des **filtres spécifiques** ont été ordonnés.
 
 **Références juridiques :**
-- Article 5 du RGPD — Principes relatifs au traitement des données  
+- Article 5 du RGPD ・ Principes relatifs au traitement des données  
   https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2#Article5
-- Charte de l’environnement — Article 5 (principe de précaution)  
+- Charte de l’environnement ・ Article 5 (principe de précaution)  
   https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/charte-de-l-environnement-de-2004
 - Avis et délibérations de la CNIL sur le dispositif Linky  
   https://www.cnil.fr/fr/compteurs-communicants-la-cnil-rend-son-avis-sur-le-dispositif-linky
@@ -83,7 +83,7 @@ Une exception a toutefois été reconnue pour les personnes se déclarant élect
 
 - **Source :** `TP2 – CEJMA.pdf`  
 - **Contexte :** Analyse de conformité RGPD d’une plateforme de e-commerce  
-- **Statut global :** `🔴` **Non conforme** — *Manquements identifiés*
+- **Statut global :** `🔴` **Non conforme** ・ *Manquements identifiés*
 
 ---
 
@@ -99,11 +99,11 @@ Par ailleurs, les durées de conservation de ces données pourraient être exces
 Les modalités de **blocage des comptes utilisateurs** sont également critiquées, notamment en raison d’un manque de transparence et d’information préalable des personnes concernées.
 
 **Références juridiques :**
-- Article 5 §1 c) du RGPD — Minimisation des données  
-- Article 5 §1 e) du RGPD — Limitation de la conservation  
-- Article 6 du RGPD — Licéité du traitement  
-- Article 9 du RGPD — Données sensibles  
-- Article 13 du RGPD — Information et transparence  
+- Article 5 §1 c) du RGPD ・ Minimisation des données  
+- Article 5 §1 e) du RGPD ・ Limitation de la conservation  
+- Article 6 du RGPD ・ Licéité du traitement  
+- Article 9 du RGPD ・ Données sensibles  
+- Article 13 du RGPD ・ Information et transparence  
 https://www.cnil.fr/fr/reglement-europeen-protection-donnees
 
 ---
@@ -124,9 +124,9 @@ Enfin, l’association **UFC-Que Choisir** reproche à Vinted des **pratiques co
 **Références juridiques :**
 - Comité Européen de la Protection des Données (CEPD)  
   https://edpb.europa.eu/edpb_fr
-- RGPD — Articles 56 et suivants (guichet unique)  
+- RGPD ・ Articles 56 et suivants (guichet unique)  
   https://www.cnil.fr/fr/reglement-europeen-protection-donnees
-- Code de la consommation — Article L121-1  
+- Code de la consommation ・ Article L121-1  
   https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227301
 - Communiqué conjoint des CNIL (18 novembre 2021)  
   https://www.cnil.fr/fr/vinted-les-cnil-francaise-lituanienne-et-polonaise-lancent-une-enquete-conjointe
