@@ -31,8 +31,8 @@ Les réponses s’appuient sur les textes législatifs en vigueur (RGPD, Code de
 ## `📙`・TP1 ・ Le compteur Linky ne viole pas le RGPD
 
  `📂`・ **Source :** `TP1 – CEJMA`.`pdf`  
-**Contexte :** Analyse juridique des données collectées par les compteurs communicants  
-**Statut global :** Non conforme (risque juridique perçu par les usagers)
+`🧠`・ **Contexte :** Analyse juridique des données collectées par les compteurs communicants  
+`🔴`・**Statut global :** Non conforme (risque juridique perçu par les usagers)
 
 ---
 
@@ -64,7 +64,7 @@ La **CNIL** a confirmé que les dispositifs mis en place respectaient les exigen
 Enfin, concernant le **principe de précaution** invoqué en lien avec les champs électromagnétiques, le tribunal a estimé qu’Enedis respectait les normes en vigueur.  
 Une mesure spécifique a toutefois été ordonnée pour les personnes se déclarant électro-hypersensibles, avec l’installation de filtres adaptés.
 
-**Références juridiques :**
+`⚖️`・ **Références juridiques :**
 - RGPD ・ Article 5 (principes relatifs au traitement des données)  
 - Charte de l’environnement ・ Article 5 (principe de précaution)  
 - CNIL ・ Avis sur le dispositif Linky
@@ -74,8 +74,8 @@ Une mesure spécifique a toutefois été ordonnée pour les personnes se déclar
 ## `📙`・ TP2 ・ RGPD : Vinted sous enquête des CNIL européennes
 
  `📂`・ **Source :** `TP2 – CEJMA`.`pdf`  
-**Contexte :** Analyse de conformité RGPD d’une plateforme de commerce en ligne  
-**Statut global :** Non conforme (manquements identifiés)
+`🧠`・ **Contexte :** Analyse de conformité RGPD d’une plateforme de commerce en ligne  
+`🔴`・ **Statut global :** Non conforme (manquements identifiés)
 
 ---
 
