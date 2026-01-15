@@ -114,3 +114,5 @@ Enfin, l’association **UFC-Que Choisir** reproche à Vinted des **pratiques co
 - RGPD — Articles 56 et suivants (mécanisme de guichet unique)  
 - Code de la consommation — Article L121-1  
 - Communiqué conjoint des CNIL — 18 novembre 2021
+
+---
