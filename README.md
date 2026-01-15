@@ -36,7 +36,7 @@ Les réponses s’appuient sur les textes législatifs en vigueur (RGPD, Code de
 
 ---
 
-### Q1 ・ Données personnelles et compteur Linky
+### `🔸`・ Q1 ・ Données personnelles et compteur Linky
 
 Les personnes assignant la société **Enedis** considèrent que les données de consommation électrique collectées par les compteurs Linky constituent des **données à caractère personnel**.  
 Selon elles, ces données permettent indirectement d’identifier les occupants d’un logement et de déduire leurs habitudes de vie (présence au domicile, horaires, utilisation d’équipements électriques).
@@ -51,7 +51,7 @@ Même sans mention explicite du nom des occupants, ces données peuvent permettr
 
 ---
 
-### Q2 ・ Analyse de l’ordonnance du 23 avril 2019
+### `🔸`・ Q2 ・ Analyse de l’ordonnance du 23 avril 2019
 
 Le tribunal a statué en faveur de la société **Enedis** pour plusieurs raisons juridiques.
 
@@ -79,7 +79,7 @@ Une mesure spécifique a toutefois été ordonnée pour les personnes se déclar
 
 ---
 
-### Q1 ・ Non-respect du RGPD par Vinted
+### `🔸`・ Q1 ・ Non-respect du RGPD par Vinted
 
 La société **Vinted** est mise en cause pour plusieurs manquements au RGPD liés au traitement des données personnelles de ses utilisateurs.
 
@@ -98,7 +98,7 @@ Les modalités de blocage des comptes utilisateurs sont également critiquées e
 
 ---
 
-### Q2 ・ Motifs reprochés à l’entreprise
+### `🔸`・ Q2 ・ Motifs reprochés à l’entreprise
 
 Plusieurs motifs sont reprochés à la société **Vinted**.
 
