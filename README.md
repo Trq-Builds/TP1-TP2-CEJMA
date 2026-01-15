@@ -1,6 +1,8 @@
 # `💼`・CEJMA ・ TP1 & TP2  
 Protection des données • RGPD • Obligations légales
 
+---
+
 Ce dépôt contient les **TP1 et TP2 de CEJMA**, traités et rédigés sous forme de **documentation structurée**.  
 Les réponses s’appuient sur les textes législatifs en vigueur (RGPD, Code de la consommation, jurisprudence) et sur des sources institutionnelles officielles.
 
