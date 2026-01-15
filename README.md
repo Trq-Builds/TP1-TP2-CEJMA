@@ -111,9 +111,9 @@ Par ailleurs, les procédures de **blocage des comptes** manquent de clarté et 
 Enfin, l’association **UFC-Que Choisir** reproche à Vinted des **pratiques commerciales trompeuses**, notamment concernant une commission présentée comme optionnelle mais affichée tardivement, relevant du droit de la consommation.
 
  `⚖️`・ **Références juridiques :**
-- Comité Européen de la Protection des Données (CEPD)  
-- RGPD ・ Articles 56 et suivants (mécanisme de guichet unique)  
-- Code de la consommation ・ Article L121-1  
-- Communiqué conjoint des CNIL ・ 18 novembre 2021
+- Comité Européen de la Protection des Données (CEPD)・[`🌐`](https://edpb.europa.eu/edpb_fr)
+- RGPD ・ Articles 56 et suivants (mécanisme de guichet unique)・[`🌐`](https://eur-lex.europa.eu/eli/reg/2016/679/oj)
+- Code de la consommation ・ Article L121-1・[`🌐`](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028747832) 
+- Communiqué conjoint des CNIL ・ 18 novembre 2021・[`🌐`](https://www.cnil.fr/fr/communique-conjoint-des-cnils-du-18-novembre-2021)
 
 ---
