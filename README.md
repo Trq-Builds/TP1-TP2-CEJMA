@@ -28,7 +28,7 @@ Les réponses s’appuient sur les textes législatifs en vigueur (RGPD, Code de
 
 ---
 
-## TP1 ・ Le compteur Linky ne viole pas le RGPD
+## `📙`・TP1 ・ Le compteur Linky ne viole pas le RGPD
 
  `📂`・ **Source :** `TP1 – CEJMA`.`pdf`  
 **Contexte :** Analyse juridique des données collectées par les compteurs communicants  
@@ -71,7 +71,7 @@ Une mesure spécifique a toutefois été ordonnée pour les personnes se déclar
 
 ---
 
-## TP2 ・ RGPD : Vinted sous enquête des CNIL européennes
+## `📙`・ TP2 ・ RGPD : Vinted sous enquête des CNIL européennes
 
  `📂`・ **Source :** `TP2 – CEJMA`.`pdf`  
 **Contexte :** Analyse de conformité RGPD d’une plateforme de commerce en ligne  
