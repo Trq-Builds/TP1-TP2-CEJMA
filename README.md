@@ -1,136 +1,116 @@
-# `💼`・TP1–TP2・CEJMA
+# `💼`・CEJMA — TP1 & TP2  
+Protection des données • RGPD • Obligations légales
 
-**Thématiques abordées :**  
-Protection des données personnelles (DCP) • Identité numérique • Preuve électronique • Sécurité des équipements • Obligations légales
-
-Ce dépôt regroupe les **TP1 et TP2 de CEJMA**, entièrement traités et structurés sous forme de **documentation juridique et technique**.  
-Les analyses ont été **enrichies par des références législatives et jurisprudentielles** afin de garantir un rendu rigoureux et conforme aux exigences du programme.
+Ce dépôt contient les **TP1 et TP2 de CEJMA**, traités et rédigés sous forme de **documentation structurée**.  
+Les réponses s’appuient sur les textes législatifs en vigueur (RGPD, Code de la consommation, jurisprudence) et sur des sources institutionnelles officielles.
 
 ---
 
-## `🗃️`・Documents & annexes fournis
+## `📂`・Documents fournis
 
-- `📄` **TP1 – CEJMA** (`.pdf`)
-- `📄` **TP2 – CEJMA** (`.pdf`)
-- `🌐` **Legalis.net** ・ Ordonnance de référé du TGI de Bordeaux (23 avril 2019)  
-  👉 https://www.legalis.net/jurisprudences/tgi-de-bordeaux-ordonnance-de-refere-du-23-avril-2019/
-
----
-
-## `📌`・Table des matières
-
-1. [**TP-1** ・ Le compteur Linky ne viole pas le RGPD](#tp-1--le-compteur-linky-ne-viole-pas-le-rgpd)
-   - [1.1 Pourquoi certaines personnes estiment que les données Linky sont des données personnelles ?](#11--analyse-de-la-confidentialité-q1)
-   - [1.2 Pourquoi l’ordonnance du 23 avril 2019 est favorable à ENEDIS ?](#12--analyse-juridique-q2)
-
-2. [**TP-2** ・ RGPD : Vinted sous le coup d’une enquête des CNIL européennes](#tp-2--rgpd--vinted-sous-le-coup-dune-enquête-des-cnil-européennes)
-   - [2.1 Pourquoi l’entreprise Vinted ne respecte pas le RGPD ?](#21--analyse-de-la-non-conformité-q1)
-   - [2.2 Quels sont les motifs reprochés à Vinted ?](#22--motifs-reprochés-q2)
-
----
-
-## `📘`・TP-1 ・ Le compteur Linky ne viole pas le RGPD
-
-- **Source :** `TP1 – CEJMA.pdf`  
-- **Contexte :** Analyse juridique des données collectées par les compteurs communicants  
-- **Statut global :** `🔴` **Non conforme** ・ *Risque juridique perçu par les usagers*
-
----
-
-### 1.1 ・ Analyse de la confidentialité (Q1)
-<a name="11--analyse-de-la-confidentialité-q1"></a>
-
-Les personnes assignant la société **Enedis** considèrent que les données de consommation électrique collectées par les compteurs Linky constituent des **données à caractère personnel**.  
-Selon elles, ces données permettraient indirectement d’identifier les occupants d’un logement et de déduire leurs **habitudes de vie** (présence au domicile, horaires, utilisation d’appareils électriques).
-
-En effet, une analyse détaillée des courbes de consommation pourrait révéler des informations sur le mode de vie des personnes concernées.  
-Même en l’absence de nom ou de prénom, ces données pourraient permettre une **identification indirecte**, ce qui correspond à la définition des données personnelles au sens du RGPD.
-
-**Références juridiques :**
-- Article 4 §1 du RGPD ・ Définition des données à caractère personnel  
-  https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre1#Article4
-- Considérant 26 du RGPD ・ Identification directe ou indirecte  
-  https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32016R0679
-- Ordonnance de référé du TGI de Bordeaux ・ 23 avril 2019  
+- `TP1 – CEJMA.pdf`
+- `TP2 – CEJMA.pdf`
+- Jurisprudence — TGI de Bordeaux, ordonnance de référé du 23 avril 2019  
   https://www.legalis.net/jurisprudences/tgi-de-bordeaux-ordonnance-de-refere-du-23-avril-2019/
 
 ---
 
-### 1.2 ・ Analyse juridique de l’ordonnance du 23 avril 2019 (Q2)
-<a name="12--analyse-juridique-q2"></a>
+## `📌`・Sommaire
+
+- [TP1 — Le compteur Linky ne viole pas le RGPD](#tp1--le-compteur-linky-ne-viole-pas-le-rgpd)
+  - [Q1 — Données personnelles et compteur Linky](#q1--données-personnelles-et-compteur-linky)
+  - [Q2 — Analyse de l’ordonnance du 23 avril 2019](#q2--analyse-de-lordonnance-du-23-avril-2019)
+
+- [TP2 — RGPD : Vinted sous enquête des CNIL européennes](#tp2--rgpd--vinted-sous-enquête-des-cnil-européennes)
+  - [Q1 — Non-respect du RGPD par Vinted](#q1--non-respect-du-rgpd-par-vinted)
+  - [Q2 — Motifs reprochés à l’entreprise](#q2--motifs-reprochés-à-lentreprise)
+
+---
+
+## TP1 — Le compteur Linky ne viole pas le RGPD
+
+**Source :** TP1 – CEJMA.pdf  
+**Contexte :** Analyse juridique des données collectées par les compteurs communicants  
+**Statut global :** Non conforme (risque juridique perçu par les usagers)
+
+---
+
+### Q1 — Données personnelles et compteur Linky
+
+Les personnes assignant la société **Enedis** considèrent que les données de consommation électrique collectées par les compteurs Linky constituent des **données à caractère personnel**.  
+Selon elles, ces données permettent indirectement d’identifier les occupants d’un logement et de déduire leurs habitudes de vie (présence au domicile, horaires, utilisation d’équipements électriques).
+
+L’analyse fine des courbes de consommation peut révéler des informations relatives au mode de vie.  
+Même sans mention explicite du nom des occupants, ces données peuvent permettre une **identification indirecte**, ce qui correspond à la définition des données personnelles au sens du RGPD.
+
+**Références juridiques :**
+- RGPD — Article 4 §1 (définition des données à caractère personnel)  
+- RGPD — Considérant 26 (identification directe ou indirecte)  
+- TGI de Bordeaux — Ordonnance de référé du 23 avril 2019
+
+---
+
+### Q2 — Analyse de l’ordonnance du 23 avril 2019
 
 Le tribunal a statué en faveur de la société **Enedis** pour plusieurs raisons juridiques.
 
-Premièrement, il a été retenu que les données transmises par les compteurs Linky ne concernaient pas des **personnes identifiables** au sens de l’article 4 §1 du RGPD.  
-Les données sont **chiffrées**, transmises de manière sécurisée et ne contiennent aucune information nominative. Seul le **point de livraison** est identifié, exclusivement à des fins de facturation.
+Tout d’abord, les juges ont estimé que les données transmises ne permettaient pas d’identifier directement ou indirectement une personne physique.  
+Les données sont **chiffrées**, transmises de manière sécurisée et ne contiennent aucune information nominative. Seul le point de livraison est identifié à des fins strictement techniques et de facturation.
 
-Deuxièmement, les demandeurs n’ont pas apporté la preuve d’un **traitement illicite** des données. La **CNIL** a confirmé que les dispositifs mis en place respectaient les principes de protection des données après sa phase de contrôle.
+Ensuite, les demandeurs n’ont pas démontré l’existence d’un **traitement illicite** des données.  
+La **CNIL** a confirmé que les dispositifs mis en place respectaient les exigences du RGPD à l’issue de ses contrôles.
 
-Enfin, concernant le **principe de précaution** invoqué en raison des champs électromagnétiques, le tribunal a estimé qu’Enedis respectait les normes en vigueur.  
-Une exception a toutefois été reconnue pour les personnes se déclarant électro-hypersensibles, pour lesquelles des **filtres spécifiques** ont été ordonnés.
-
-**Références juridiques :**
-- Article 5 du RGPD ・ Principes relatifs au traitement des données  
-  https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2#Article5
-- Charte de l’environnement ・ Article 5 (principe de précaution)  
-  https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/charte-de-l-environnement-de-2004
-- Avis et délibérations de la CNIL sur le dispositif Linky  
-  https://www.cnil.fr/fr/compteurs-communicants-la-cnil-rend-son-avis-sur-le-dispositif-linky
-
----
-
-## `📘`・TP-2 ・ RGPD : Vinted sous le coup d’une enquête des CNIL européennes
-
-- **Source :** `TP2 – CEJMA.pdf`  
-- **Contexte :** Analyse de conformité RGPD d’une plateforme de e-commerce  
-- **Statut global :** `🔴` **Non conforme** ・ *Manquements identifiés*
-
----
-
-### 2.1 ・ Analyse de la non-conformité RGPD (Q1)
-<a name="21--analyse-de-la-non-conformité-q1"></a>
-
-L’entreprise **Vinted** est mise en cause pour plusieurs manquements présumés au RGPD.  
-Elle impose notamment à ses utilisateurs la transmission d’une **copie numérisée de leur carte d’identité** afin de débloquer les fonds issus des transactions.
-
-Cette pratique soulève des interrogations quant à la **base légale du traitement**, à sa **proportionnalité** et à la nécessité réelle de collecter des données aussi sensibles.  
-Par ailleurs, les durées de conservation de ces données pourraient être excessives et contraires au principe de **limitation de la conservation**.
-
-Les modalités de **blocage des comptes utilisateurs** sont également critiquées, notamment en raison d’un manque de transparence et d’information préalable des personnes concernées.
+Enfin, concernant le **principe de précaution** invoqué en lien avec les champs électromagnétiques, le tribunal a estimé qu’Enedis respectait les normes en vigueur.  
+Une mesure spécifique a toutefois été ordonnée pour les personnes se déclarant électro-hypersensibles, avec l’installation de filtres adaptés.
 
 **Références juridiques :**
-- Article 5 §1 c) du RGPD ・ Minimisation des données  
-- Article 5 §1 e) du RGPD ・ Limitation de la conservation  
-- Article 6 du RGPD ・ Licéité du traitement  
-- Article 9 du RGPD ・ Données sensibles  
-- Article 13 du RGPD ・ Information et transparence  
-https://www.cnil.fr/fr/reglement-europeen-protection-donnees
+- RGPD — Article 5 (principes relatifs au traitement des données)  
+- Charte de l’environnement — Article 5 (principe de précaution)  
+- CNIL — Avis sur le dispositif Linky
 
 ---
 
-### 2.2 ・ Motifs reprochés à l’entreprise Vinted (Q2)
-<a name="22--motifs-reprochés-q2"></a>
+## TP2 — RGPD : Vinted sous enquête des CNIL européennes
 
-Plusieurs motifs sont reprochés à la société Vinted.
-
-Tout d’abord, l’obligation de fournir une **pièce d’identité** pour accéder aux fonds soulève des doutes quant à la légitimité et à la proportionnalité de cette exigence.
-
-Ensuite, les **durées de conservation** des données personnelles sont jugées potentiellement excessives.
-
-De plus, les critères de **suspension ou de blocage des comptes** manquent de clarté et de justification, ce qui pourrait constituer un manquement au principe de transparence.
-
-Enfin, l’association **UFC-Que Choisir** reproche à Vinted des **pratiques commerciales trompeuses**, notamment concernant une commission présentée comme optionnelle mais affichée tardivement, ce qui relève du **droit de la consommation**.
+**Source :** TP2 – CEJMA.pdf  
+**Contexte :** Analyse de conformité RGPD d’une plateforme de commerce en ligne  
+**Statut global :** Non conforme (manquements identifiés)
 
 ---
+
+### Q1 — Non-respect du RGPD par Vinted
+
+La société **Vinted** est mise en cause pour plusieurs manquements au RGPD liés au traitement des données personnelles de ses utilisateurs.
+
+L’entreprise impose notamment la transmission d’une **copie numérisée de la carte d’identité** afin de débloquer les fonds issus des transactions.  
+Cette exigence soulève des interrogations quant à la **base légale du traitement**, à sa proportionnalité et à la nécessité de collecter des données aussi sensibles.
+
+Par ailleurs, les **durées de conservation** de ces données sont questionnées au regard du principe de limitation de la conservation.  
+Les modalités de blocage des comptes utilisateurs sont également critiquées en raison d’un manque de transparence et d’information préalable.
+
+**Références juridiques :**
+- RGPD — Article 5 §1 c) (minimisation des données)  
+- RGPD — Article 5 §1 e) (limitation de la conservation)  
+- RGPD — Article 6 (licéité du traitement)  
+- RGPD — Article 9 (données sensibles)  
+- RGPD — Article 13 (information des personnes)
+
+---
+
+### Q2 — Motifs reprochés à l’entreprise
+
+Plusieurs motifs sont reprochés à la société **Vinted**.
+
+En premier lieu, l’obligation de fournir une **pièce d’identité** pour accéder aux fonds est jugée disproportionnée au regard des finalités poursuivies.
+
+En second lieu, les **durées de conservation** des données personnelles apparaissent excessives.
+
+Par ailleurs, les procédures de **blocage des comptes** manquent de clarté et de justification, ce qui peut constituer un manquement au principe de transparence.
+
+Enfin, l’association **UFC-Que Choisir** reproche à Vinted des **pratiques commerciales trompeuses**, notamment concernant une commission présentée comme optionnelle mais affichée tardivement, relevant du droit de la consommation.
 
 **Références juridiques :**
 - Comité Européen de la Protection des Données (CEPD)  
-  https://edpb.europa.eu/edpb_fr
-- RGPD ・ Articles 56 et suivants (guichet unique)  
-  https://www.cnil.fr/fr/reglement-europeen-protection-donnees
-- Code de la consommation ・ Article L121-1  
-  https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227301
-- Communiqué conjoint des CNIL (18 novembre 2021)  
-  https://www.cnil.fr/fr/vinted-les-cnil-francaise-lituanienne-et-polonaise-lancent-une-enquete-conjointe
-  
----
+- RGPD — Articles 56 et suivants (mécanisme de guichet unique)  
+- Code de la consommation — Article L121-1  
+- Communiqué conjoint des CNIL — 18 novembre 2021
