@@ -121,6 +121,8 @@ De plus, les critères de **suspension ou de blocage des comptes** manquent de c
 
 Enfin, l’association **UFC-Que Choisir** reproche à Vinted des **pratiques commerciales trompeuses**, notamment concernant une commission présentée comme optionnelle mais affichée tardivement, ce qui relève du **droit de la consommation**.
 
+---
+
 **Références juridiques :**
 - Comité Européen de la Protection des Données (CEPD)  
   https://edpb.europa.eu/edpb_fr
