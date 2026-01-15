@@ -44,6 +44,8 @@ Selon elles, ces données permettent indirectement d’identifier les occupants 
 L’analyse fine des courbes de consommation peut révéler des informations relatives au mode de vie.  
 Même sans mention explicite du nom des occupants, ces données peuvent permettre une **identification indirecte**, ce qui correspond à la définition des données personnelles au sens du RGPD.
 
+---
+
  `⚖️`・ **Références juridiques :**
 - RGPD ・ Article 4 §1 (définition des données à caractère personnel) ・[`🌐`](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre1#Article4) [`🌐`](https://gdpr-text.com/fr/read/article-4/)
 - RGPD ・ Considérant 26 (identification directe ou indirecte) ・[`🌐`](https://eur-lex.europa.eu/eli/reg/2016/679/oj) [`🌐`](https://gdpr-text.com/fr/read/recital-26/)
@@ -63,6 +65,8 @@ La **CNIL** a confirmé que les dispositifs mis en place respectaient les exigen
 
 Enfin, concernant le **principe de précaution** invoqué en lien avec les champs électromagnétiques, le tribunal a estimé qu’Enedis respectait les normes en vigueur.  
 Une mesure spécifique a toutefois été ordonnée pour les personnes se déclarant électro-hypersensibles, avec l’installation de filtres adaptés.
+
+---
 
 `⚖️`・ **Références juridiques :**
 - RGPD ・ Article 5 (principes relatifs au traitement des données)・[`🌐`](https://eur-lex.europa.eu/eli/reg/2016/679/oj) [`🌐`](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2#Article5)
@@ -89,6 +93,8 @@ Cette exigence soulève des interrogations quant à la **base légale du traitem
 Par ailleurs, les **durées de conservation** de ces données sont questionnées au regard du principe de limitation de la conservation.  
 Les modalités de blocage des comptes utilisateurs sont également critiquées en raison d’un manque de transparence et d’information préalable.
 
+---
+
  `⚖️`・ **Références juridiques :**
 - RGPD ・ Article 5 §1 c) (minimisation des données)・[`🌐`](https://www.privacy-regulation.eu/fr/5.htm)
 - RGPD ・ Article 5 §1 e) (limitation de la conservation)・[`🌐`](https://www.privacy-regulation.eu/fr/5.htm)
@@ -109,6 +115,8 @@ En second lieu, les **durées de conservation** des données personnelles appara
 Par ailleurs, les procédures de **blocage des comptes** manquent de clarté et de justification, ce qui peut constituer un manquement au principe de transparence.
 
 Enfin, l’association **UFC-Que Choisir** reproche à Vinted des **pratiques commerciales trompeuses**, notamment concernant une commission présentée comme optionnelle mais affichée tardivement, relevant du droit de la consommation.
+
+---
 
  `⚖️`・ **Références juridiques :**
 - Comité Européen de la Protection des Données (CEPD)・[`🌐`](https://edpb.europa.eu/edpb_fr)
