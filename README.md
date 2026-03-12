@@ -1,6 +1,10 @@
 # `💼`・CEJMA ・ TP1 & TP2  
 Protection des données • RGPD • Obligations légales
 
+![CEJMA](https://img.shields.io/badge/CEJMA-Training-blue)
+![Type](https://img.shields.io/badge/Type-Travaux_Pratiques-success)
+![Markdown](https://img.shields.io/badge/Written_in-Markdown-black?logo=markdown)
+
 ---
 
 Ce dépôt contient les **TP1 et TP2 de CEJMA**, traités et rédigés sous forme de **documentation structurée**.  
