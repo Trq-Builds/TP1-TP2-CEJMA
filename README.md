@@ -15,8 +15,6 @@ Ce dépôt contient les **TP1 et TP2 de CEJMA**, traités et rédigés sous form
 Les réponses s’appuient sur les textes législatifs en vigueur (RGPD, Code de la consommation, jurisprudence) et sur des sources institutionnelles officielles.
 
 ---
-
----
 > [!NOTE]
 > **Note obtenue : 20/20 !**
 
