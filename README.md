@@ -16,6 +16,12 @@ Les réponses s’appuient sur les textes législatifs en vigueur (RGPD, Code de
 
 ---
 
+---
+> [!NOTE]
+> **Note obtenue : 20/20 !**
+
+---
+
 ## `🗃️ ︲ 🌐`・**Documents/Liens d’annexes fournis :**
 
 - `📂`・`TP1 – CEJMA`.`pdf`
